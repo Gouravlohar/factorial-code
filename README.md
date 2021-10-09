@@ -1,2 +1,2 @@
-# factorial-code
-How to find Factorial of a number in Python
+Name:- Gourav Lohar
+College Email:- gouravlohar.21@nshm.edu.in
